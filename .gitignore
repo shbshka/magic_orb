@@ -1,3 +1,4 @@
 .env
 .spyproject
 venv/
+*/__pycache__/
